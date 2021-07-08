@@ -6,7 +6,7 @@ Everything not permitted is prohibited.
 
 ## Permitted Purposes
 
-This license allows you to use this software for free for the purposes of a Cooperative Project that you are a Member of.
+This license allows you to use this software to develop, operate, or analyze any Cooperative Project's software that you are a Member of.
 
 ## Members and Cooperative Projects
 
@@ -15,7 +15,7 @@ To be considered a Member under the terms of this license, the Cooperative Proje
 1. Must have a one-Member one-vote policy for Cooperative Project governance, or for electing and recalling elected delegates, such as for a Board or a Core Committee.
 2. Must have a policy of accepting Members regardless of gender, race and ethnicity, sexuality, caste, disability status, or any other protected classes in any jurisdiction where any Member resides.
 3. Must NOT require Members to forfeit their copyrights to any contribution, except when the copyright is granted to an entity under one-Member one-vote governance to which the Member belongs to.
-4. Must grant Members of any other Cooperative Project at least the same rights as this license grants you, to any software developed by your Cooperative Project.
+4. Must grant Members of any other Cooperative Project at least the same rights as this license grants you, to any software they use this software to develop, operate, or analyze.
 
 Any Project controlled by Members is considered a Cooperative Project.
 
