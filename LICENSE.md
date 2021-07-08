@@ -6,7 +6,7 @@ Everything not permitted is prohibited.
 
 ## Permitted Purposes
 
-This license allows you to use this software to develop, operate, or analyze any Cooperative Project's software that you are a Member of.
+This license allows you to use this software to develop, operate, or analyze any software controlled by a Cooperative Project that you are a Member of.
 
 ## Members and Cooperative Projects
 
