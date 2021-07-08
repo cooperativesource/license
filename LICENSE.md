@@ -2,20 +2,23 @@
 
 Development Draft. Seriously, do not use this.
 
-Everything not permitted is prohibited.
-
-## Permitted Purposes
+## Purpose
 
 This license allows you to use this software to develop, operate, or analyze any software controlled by a Cooperative Project that you are a Member of.
 
+## Copyleft
+
+[Contribute](#contribute) software you develop, operate, or analyze using this software, including changes and additions to this software. When in doubt, [contribute](#contribute).
+
 ## Members and Cooperative Projects
 
-To be considered a Member under the terms of this license, the Cooperative Project you are a Member of that you are using this software for or with:
+A Cooperative Project is any organization around the software that has the following characteristics:
 
-1. Must have a one-Member one-vote policy for Cooperative Project governance, or for electing and recalling elected delegates, such as for a Board or a Core Committee.
-2. Must have a policy of accepting Members regardless of gender, race and ethnicity, sexuality, caste, disability status, or any other protected classes in any jurisdiction where any Member resides.
-3. Must NOT require Members to forfeit their copyrights to any contribution, except when the copyright is granted to an entity under one-Member one-vote governance to which the Member belongs to.
-4. Must grant Members of any other Cooperative Project at least the same rights as this license grants you, to any software they use this software to develop, operate, or analyze.
+1. Ownership of the software is democratically held either by:
+  a. Its Members, either entirely, or through a cross-licensing agreement such as [xlcollaborative](https://xlcollaborative.com).
+  b. A holding entity under direct control of the software through a Board that is democratically elected by all Members.
+2. Has a one-Member one-vote policy for governance of the development and licensing of the software, or delegates that power to a Board elected under a one-Member one-vote system.
+3. Has a policy of accepting Members regardless of gender identity or expression, race or ethnicity, sexuality, castee, disability status, or any other protected classes in the potential Member's jurisdiction.
 
 Any Project controlled by Members is considered a Cooperative Project.
 
@@ -26,6 +29,18 @@ To receive this license, you have to agree to its rules.  Those rules are both o
 ## Copyright
 
 Each Member licenses you to do everything with this software that would otherwise infringe their copyright in it, but you may only run this software for [Permitted Purposes](#permitteed-purposes).
+
+## Contribute
+
+To [contribute](#contribute) software:
+
+1.  Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.
+
+2.  Make sure every part of the source code is available under this license or another license that allows everything this license does.
+
+3.  Take these steps within thirty days.
+
+4.  Note that this license does _not_ allow you to change the license terms for this software.  You must follow [Notices](#notices).
 
 ## Notices
 
