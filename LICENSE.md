@@ -4,31 +4,37 @@ Development Draft. Seriously, do not use this.
 
 ## Purpose
 
-This license allows you to use this software to develop, operate, or analyze any software controlled by a Cooperative Project that you are a Member of.
-
-## Copyleft
-
-[Contribute](#contribute) software you develop, operate, or analyze using this software, including changes and additions to this software. When in doubt, [contribute](#contribute).
-
-## Members and Cooperative Projects
-
-A Cooperative Project is any organization around the software that has the following characteristics:
-
-1. Ownership of the software is democratically held either by:
-  a. Its Members, either entirely, or through a cross-licensing agreement such as [xlcollaborative](https://xlcollaborative.com).
-  b. A holding entity under direct control of the software through a Board that is democratically elected by all Members.
-2. Has a one-Member one-vote policy for governance of the development and licensing of the software, or delegates that power to a Board elected under a one-Member one-vote system.
-3. Has a policy of accepting Members regardless of gender identity or expression, race or ethnicity, sexuality, castee, disability status, or any other protected classes in the potential Member's jurisdiction.
-
-Any Project controlled by Members is considered a Cooperative Project.
+This license allows you to use and share this software for free, but you must be a Member of a Cooperative Project.
 
 ## Acceptance
 
 To receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software against any rule you can't or won't follow.
 
+## Notices
+
+You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license.
+
+## Copyleft
+
+[Contribute](#contribute) software you develop, operate, or analyze using this software, including changes and additions to this software. When in doubt, [contribute](#contribute).
+
 ## Copyright
 
-Each Member licenses you to do everything with this software that would otherwise infringe their copyright in it, but you may only run this software for [Permitted Purposes](#permitteed-purposes).
+Each Member licenses you to do everything with this software that would otherwise infringe their copyright in it.
+
+## Members and Cooperative Projects
+
+A Cooperative Project is any entity or group of entities that has the following characteristics:
+
+1. Ownership of the copyrights and patents to the software is held by either:
+  a. Its Members, either entirely, or through a cross-licensing agreement such as [xlcollaborative](https://xlcollaborative.com).
+  b. A holding entity with a director or directors democratically elected by at least a majority of its Members.
+
+2. Has a one-Member one-vote policy for any changes to the project's licensing term, requiring at least a majority vote.
+
+3. Has a policy of accepting Members regardless of gender identity or expression, race or ethnicity, sexuality, caste, disability status, or any other protected classes in the potential Member's jurisdiction.
+
+A Member is any person that has the right to vote for the election of a director or directors, or possesses proprietary interests in the software, and has a vote towards any changes to the software's licensing terms.
 
 ## Contribute
 
@@ -42,9 +48,15 @@ To [contribute](#contribute) software:
 
 4.  Note that this license does _not_ allow you to change the license terms for this software.  You must follow [Notices](#notices).
 
-## Notices
+## Prototypes
 
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license.
+You don't have to [contribute](#contribute) any change, addition, or other software that meets all these criteria:
+
+1.  You don't use it for more than thirty days.
+
+2.  You don't share it outside the team developing it, other than for non-production user testing.
+
+3.  You don't develop, operate, or analyze other software with it for anyone outside the team developing it.
 
 ## Excuse
 
@@ -52,7 +64,7 @@ You're excused for unknowingly breaking [Notices](#notices) if you take all prac
 
 ## Patent
 
-Each Member licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license, but you may only run this software for [Permitted Purposes](#permitted-purposes).
+Each Member licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
 
 ## Reliability
 
