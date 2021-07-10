@@ -33,6 +33,7 @@ A Cooperative Project is any entity or group of entities that has the following 
 1. Ownership of the copyrights and patents to the software is held by either:
     1. Its Members, either entirely, or through a cross-licensing agreement, such as [xlcollaborative](https://xlcollaborative.com), where all Members license their copyrights to each other.
     2. A holding entity where the majority of directors represent, are accountable to, and are elected by at least a majority of Members.
+    3. A person, in its entirety. This person is considered a Member of a single-Member Cooperative Project.
 
 2. Has a one-Member one-vote policy for any changes to the project's licensing term, requiring at least a majority vote.
 
