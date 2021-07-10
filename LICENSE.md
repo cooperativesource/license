@@ -38,8 +38,6 @@ A Cooperative Project is any entity or group of entities that has the following 
 
 3. Has a policy of accepting Members regardless of gender identity or expression, race or ethnicity, sexuality, caste, disability status, or any other protected classes in the potential Member's jurisdiction.
 
-4. Every part of the source code for the software is available under this license or another license that allows everything this license does.
-
 A Member is any person that has the right to vote for the election of a director or directors, or possesses proprietary interests in the software, and has a vote towards any changes to the software's licensing terms.
 
 ## Contribute
